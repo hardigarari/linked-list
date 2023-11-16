@@ -8,15 +8,19 @@ Simple c++ Program to show simple linked list operations
 
 ## Usage
 
-```python
-import foobar
+```C++
+Using program
 
-# returns 'words'
-foobar.pluralize('word')
+# For adding new node
+ insert(ValueOfNode);
 
-# returns 'geese'
-foobar.pluralize('goose')
+# For adding new node in any position 
+insertInMiddle(position, value);
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+# For delete
+deleteNode(value);
+
+# For print the node of the linked list
+ print();
+
 ```
